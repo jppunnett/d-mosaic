@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"James Punnett"
+	],
+	"copyright": "Copyright © 2020, James Punnett",
+	"dependencies": {
+		"dlib": "~>0.20.0"
+	},
+	"description": "Create photo mosaics.",
+	"license": "proprietary",
+	"name": "d-mosaic"
+}

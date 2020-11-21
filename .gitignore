@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/d-mosaic
+d-mosaic.so
+d-mosaic.dylib
+d-mosaic.dll
+d-mosaic.a
+d-mosaic.lib
+d-mosaic-test-*
+*.exe
+*.o
+*.obj
+*.lst
